@@ -42,7 +42,7 @@ Thus being the top five performing schools based on percent passing rates, where
   10. % Overall Passing (The percentage of students that passed math and reading.)
   
  # **Top Performing Schools (By % Overall Passing)**
-    ## Created a table that highlights the top 5 performing schools based on % Overall Passing, including:
+    ##Created a table that highlights the top 5 performing schools based on % Overall Passing, including:
 	1. School Name
 	2. School Type
 	3. Total Students
